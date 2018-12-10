@@ -1,0 +1,12 @@
+{
+  "name": "link-to-s3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.373.0",
+    "axios": "^0.18.0",
+    "bluebird": "^3.5.3",
+    "sharp": "^0.21.1"
+  }
+}
